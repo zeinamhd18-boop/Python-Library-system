@@ -1,6 +1,6 @@
 # Library Managment System
 
-Asimple Python Project to manage library books.
+A simple Python Project to manage library books.
 
 ## Features
 _ Add books to the library. 
